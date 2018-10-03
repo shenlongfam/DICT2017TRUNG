@@ -1,0 +1,14 @@
+E:\Programming 2\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Programming 2\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Programming 2\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+E:\Programming 2\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+E:\Programming 2\Hotel\Hotel\obj\Debug\App.g.cs
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+E:\Programming 2\Hotel\Hotel\obj\Debug\MainWindow.baml
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel.g.resources
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Programming 2\Hotel\Hotel\obj\Debug\Hotel.pdb

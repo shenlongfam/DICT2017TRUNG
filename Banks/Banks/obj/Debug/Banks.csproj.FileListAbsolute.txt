@@ -1,0 +1,14 @@
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\MainWindow.g.cs
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\App.g.cs
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks_MarkupCompile.cache
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks_MarkupCompile.lref
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\bin\Debug\Banks.exe.config
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\bin\Debug\Banks.exe
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\bin\Debug\Banks.pdb
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\MainWindow.baml
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks.g.resources
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks.Properties.Resources.resources
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks.csproj.GenerateResource.Cache
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks.exe
+C:\Users\Eric\Documents\STUDY\programming\Banks\Banks\obj\Debug\Banks.pdb
